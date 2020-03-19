@@ -29,8 +29,8 @@ This project was developed in the following sections:
    
 - Project Implementation
    - Data Preprocessing
-   - Missing Values and Categorical Variables
-   - Normalization
+      - Missing Values and Categorical Variables
+      - Normalization
    - Making Predictions and Model Assessment  
      - Unbalanced Data
         - Inclusion of All Variables
