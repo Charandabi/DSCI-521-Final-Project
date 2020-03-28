@@ -2,7 +2,6 @@
 
 # SCREENING FOR CHRONIC KIDNEY DISEASE
 
-Sina E. Charandabi, Thirukumaran Subramani, John Wilson
 #### Drexel University, Department of Decision Science
 
 # Abstract
