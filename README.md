@@ -44,7 +44,7 @@ This project was developed in the following sections:
         - Discussion on the Statistical Significance
     - Concluding Remarks 
     
-# Reqyuired Libraries
+# Required Libraries
 - Pandas
 - numpy
 - seaborn
