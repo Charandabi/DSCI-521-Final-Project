@@ -2,7 +2,7 @@
 
 # SCREENING FOR CHRONIC KIDNEY DISEASE
 
-#### Drexel University, Department of Decision Science
+#### Drexel University, Department of Data Science
 
 # Abstract
 >_The purpose of this study is to create an efficient screening tool to identify patients at risk for chronic kidney disease (CKD). Despite the wide availability and low cost of a test for CKD based on one or more blood samples, studies have shown that many in the at-risk population have not been tested. One reason for this is that the awareness of CKD is low. Given the proven benefits of early detection and treatment, the need for some kind of screening tool is clear. Employing classification techniques, we will study how efficiently high-risk patients can be identified using easily obtainable patient data._
